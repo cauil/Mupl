@@ -6,6 +6,9 @@ A simple language interpreter contains:
     * constants: int (aunit) fun closure pair
     * function
     * lexical scope
+    * ifaunit
+    * mlet*
+    * ifeq
 
 ## syntax
 
